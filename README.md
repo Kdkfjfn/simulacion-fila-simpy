@@ -43,9 +43,6 @@ Tecnologías utilizadas
 * SimPy
 * GitHub
 * Terminal
-Integrantes
-Integrante 1:** ______________________________
-Integrante 2:** ______________________________
 Conclusión
 La simulación permite representar mediante un modelo computacional el comportamiento de un sistema real de atención.
 A partir de los datos obtenidos durante la observación de campo es posible analizar los tiempos de espera y atención de los clientes y observar el comportamiento del sistema bajo diferentes condiciones.
